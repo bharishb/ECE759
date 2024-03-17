@@ -1,0 +1,12 @@
+mat_mul.cu(26): warning #177-D: variable "A_index_x" was declared but never referenced
+
+mat_mul.cu(27): warning #177-D: variable "A_index_y" was declared but never referenced
+
+mat_mul.cu(36): warning #177-D: variable "B_index_x" was declared but never referenced
+
+mat_mul.cu(37): warning #177-D: variable "B_index_y" was declared but never referenced
+
+mat_mul.cu(67): warning #181-D: argument is incompatible with corresponding format string conversion
+          detected during instantiation of "void mat_mul_kernel(const T *, const T *, T *, unsigned int, unsigned int, unsigned int, int) [with T=float]" 
+(80): here
+

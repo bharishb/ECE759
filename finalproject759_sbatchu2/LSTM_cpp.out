@@ -1,0 +1,22 @@
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :127.055
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :249.653
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :500.512
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :1000.49
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :1995.4
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :3992.89
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :7986.06
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :16751.9
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :32929.1
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :65431.1
+Running CPP Implementation of LSTM. batch_size = 1000, device = cpu, block_dim = 32, device_language = cpp
+Duration Taken :143840

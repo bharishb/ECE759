@@ -1,0 +1,16 @@
+Running OPENMP Implementation of LSTM. batch_size = 1000, device = cpu, num_threads = 1, device_language = openmp
+2009.54
+Running OPENMP Implementation of LSTM. batch_size = 1000, device = cpu, num_threads = 1, device_language = openmp
+1857.89
+Running OPENMP Implementation of LSTM. batch_size = 1000, device = cpu, num_threads = 1, device_language = openmp
+1757.4
+Running OPENMP Implementation of LSTM. batch_size = 1000, device = cpu, num_threads = 1, device_language = openmp
+2313.16
+Running OPENMP Implementation of LSTM. batch_size = 1000, device = cpu, num_threads = 1, device_language = openmp
+2242.68
+Running OPENMP Implementation of LSTM. batch_size = 1000, device = cpu, num_threads = 1, device_language = openmp
+2117.02
+Running OPENMP Implementation of LSTM. batch_size = 1000, device = cpu, num_threads = 1, device_language = openmp
+2056.95
+Running OPENMP Implementation of LSTM. batch_size = 1000, device = cpu, num_threads = 1, device_language = openmp
+2044.66
